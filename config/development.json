@@ -1,0 +1,43 @@
+{
+    "server": {
+        "port": 3000,
+        "origin": "http://localhost:3000"
+    },
+    "jwt": {
+        "secret": "jwt_secret",
+        "accessTokenExpiresIn": "2 days"
+    },
+    "db": {
+        "journal": {
+            "url": "mongodb://0.0.0.0:27017/journal",
+            "collections": {
+                "journals": "journals",
+                "articles": "articles",
+                "users": "users"
+            }
+        }
+    },
+    "log4js": {
+        "appenders": {
+            "out": {
+                "type": "stdout"
+            },
+            "console": {
+                "type": "console"
+            },
+            "everything": {
+                "type": "file",
+                "filename": "D:/JS/logs/everything.log"
+            }
+        },
+        "categories": {
+            "default": {
+                "appenders": [
+                    "console",
+                    "everything"
+                ],
+                "level": "debug"
+            }
+        }
+    }
+}
