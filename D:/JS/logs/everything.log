@@ -182,3 +182,4 @@
 [2023-07-11T11:33:49.513] [ERROR] default - SIGTERM
 [2023-07-11T11:33:49.514] [INFO] default - SIGTERM received
 [2023-07-11T11:33:51.180] [INFO] default - Server run on the port 3000
+[2023-07-11T11:36:06.670] [INFO] default - Server run on the port 3000

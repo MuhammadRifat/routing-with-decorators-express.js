@@ -5,33 +5,30 @@ import { IUser } from "../users/user.interface";
 
 // generate jwt token
 const generateJWTToken = (payload: object) => {
-    const secret = config.get<string>("jwt.secret");
-    const expiresIn = config.get<string>("jwt.accessTokenExpiresIn");
+  const secret = config.get<string>("jwt.secret");
+  const expiresIn = config.get<string>("jwt.accessTokenExpiresIn");
 
-    const token = jwt.sign(payload, secret, {
-        expiresIn: expiresIn
-    })
+  const token = jwt.sign(payload, secret, {
+    expiresIn: expiresIn,
+  });
 
-    return token;
-}
+  return token;
+};
 
 // verify jwt token
 const verifyJWTToken = (token: string) => {
-    const secret = config.get<string>("jwt.secret");
+  const secret = config.get<string>("jwt.secret");
 
-    const decoded: any = jwt.verify(token, secret);
+  const decoded: any = jwt.verify(token, secret);
 
-    if (!decoded) {
-        throw new ApiError(401, "unauthorized!");
-    }
+  if (!decoded) {
+    throw new ApiError(401, "unauthorized!");
+  }
 
-    return {
-        _id: String(decoded._id),
-        role: String(decoded.role)
-    }
-}
+  return {
+    _id: String(decoded._id),
+    role: String(decoded.role),
+  };
+};
 
-export {
-    generateJWTToken,
-    verifyJWTToken
-}
+export { generateJWTToken, verifyJWTToken };

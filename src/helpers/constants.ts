@@ -1,10 +1,8 @@
 const ROLES = {
-    author: "author",
-    editor: "editor",
-    reviewer: "reviewer",
-    admin: "admin"
+  author: "author",
+  editor: "editor",
+  reviewer: "reviewer",
+  admin: "admin",
 };
 
-export {
-    ROLES
-};
+export { ROLES };

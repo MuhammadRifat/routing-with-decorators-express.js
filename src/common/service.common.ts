@@ -40,7 +40,9 @@ class Service<TDoc, TModel = IModel<TDoc>> {
   };
 
   // get all documents by query
-  findAllByQuery = ({ query = {}, select = {} }: IQueryPayload = {}): Promise<TDoc[]> => {
+  findAllByQuery = ({ query = {}, select = {} }: IQueryPayload = {}): Promise<
+    TDoc[]
+  > => {
     return this.model.find(query).select(select).notDeleted();
   };
 
@@ -71,7 +73,7 @@ class Service<TDoc, TModel = IModel<TDoc>> {
             ...updateBody,
           },
         },
-        { new: true }
+        { new: true },
       )
       .select(select)
       .notDeleted();
@@ -93,7 +95,7 @@ class Service<TDoc, TModel = IModel<TDoc>> {
         },
         {
           new: true,
-        }
+        },
       )
       .select(select)
       .notDeleted();
@@ -109,7 +111,7 @@ class Service<TDoc, TModel = IModel<TDoc>> {
             is_deleted: true,
           },
         },
-        { new: true }
+        { new: true },
       )
       .notDeleted();
   };
@@ -128,7 +130,7 @@ class Service<TDoc, TModel = IModel<TDoc>> {
         },
         {
           new: true,
-        }
+        },
       )
       .select(select)
       .notDeleted();
@@ -148,7 +150,7 @@ class Service<TDoc, TModel = IModel<TDoc>> {
         },
         {
           new: true,
-        }
+        },
       )
       .select(select)
       .notDeleted();
@@ -164,7 +166,7 @@ class Service<TDoc, TModel = IModel<TDoc>> {
             is_deleted: true,
           },
         },
-        { new: true }
+        { new: true },
       )
       .notDeleted();
   };
@@ -190,7 +192,7 @@ class Service<TDoc, TModel = IModel<TDoc>> {
             is_deleted: false,
           },
         },
-        { new: true }
+        { new: true },
       )
       .onlyDeleted();
   };
@@ -214,7 +216,7 @@ class Service<TDoc, TModel = IModel<TDoc>> {
         $set: {
           is_deleted: false,
         },
-      }
+      },
     );
   };
 

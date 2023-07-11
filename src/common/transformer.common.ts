@@ -5,70 +5,71 @@
  */
 
 class Transformer {
-    private res;
+  private res;
 
-    constructor(res: unknown) {
-        this.res = res;
+  constructor(res: unknown) {
+    this.res = res;
+  }
+
+  keepProperties = <T>(propertiesObject: object): T | T[] => {
+    let data = this.res;
+
+    if (Array.isArray(data)) {
+      const transformedData = data?.map((obj) =>
+        this.addPropertiesToObject(obj, propertiesObject),
+      );
+      return transformedData;
     }
 
-    keepProperties = <T>(propertiesObject: object): T | T[] => {
-        let data = this.res;
+    return this.addPropertiesToObject(data, propertiesObject);
+  };
 
-        if (Array.isArray(data)) {
-            const transformedData = data?.map((obj) => this.addPropertiesToObject(obj, propertiesObject));
-            return transformedData;
-        }
+  // transform data (remove properties)
+  removeProperties = <T>(propertiesObject: object): T | T[] => {
+    let data = JSON.parse(JSON.stringify(this.res));
 
-        return this.addPropertiesToObject(data, propertiesObject);
+    if (Array.isArray(data)) {
+      const transformedData = data?.map((obj) =>
+        this.removePropertiesFromObject(obj, propertiesObject),
+      );
+      return transformedData;
     }
 
-    // transform data (remove properties) 
-    removeProperties = <T>(propertiesObject: object): T | T[] => {
-        let data = JSON.parse(JSON.stringify(this.res));
+    return this.removePropertiesFromObject(data, propertiesObject);
+  };
 
-        if (Array.isArray(data)) {
-            const transformedData = data?.map((obj) => this.removePropertiesFromObject(obj, propertiesObject));
-            return transformedData;
-        }
+  // transform object (remove props)
+  removePropertiesFromObject = (dataObj: any, propertiesObject: any) => {
+    // remove all properties of propertiesObject from dataObj
+    Object.keys(propertiesObject)?.forEach((key: any) => {
+      if (propertiesObject[key] === 1) {
+        delete dataObj[key];
+      } else if (typeof propertiesObject[key] == "object" && dataObj[key]) {
+        this.removePropertiesFromObject(dataObj[key], propertiesObject[key]);
+      }
+    });
 
-        return this.removePropertiesFromObject(data, propertiesObject);
-    }
+    return dataObj;
+  };
 
-    // transform object (remove props)
-    removePropertiesFromObject = (dataObj: any, propertiesObject: any) => {
+  // transform object (add props)
+  addPropertiesToObject = (dataObj: any, propertiesObject: any) => {
+    const targetObj: any = {};
 
-        // remove all properties of propertiesObject from dataObj
-        Object.keys(propertiesObject)?.forEach((key: any) => {
+    // add all properties of propertiesObject from dataObj
+    Object.keys(propertiesObject)?.forEach((key: any) => {
+      if (propertiesObject[key] === 1) {
+        targetObj[key] = dataObj[key];
+      } else if (typeof propertiesObject[key] == "object" && dataObj[key]) {
+        targetObj[key] = this.addPropertiesToObject(
+          dataObj[key],
+          propertiesObject[key],
+        );
+      }
+    });
 
-            if (propertiesObject[key] === 1) {
-                delete dataObj[key];
-
-            } else if (typeof propertiesObject[key] == 'object' && dataObj[key]) {
-                this.removePropertiesFromObject(dataObj[key], propertiesObject[key]);
-
-            }
-        });
-
-        return dataObj;
-    }
-
-    // transform object (add props)
-    addPropertiesToObject = (dataObj: any, propertiesObject: any) => {
-        const targetObj: any = {};
-
-        // add all properties of propertiesObject from dataObj
-        Object.keys(propertiesObject)?.forEach((key: any) => {
-
-            if (propertiesObject[key] === 1) {
-                targetObj[key] = dataObj[key];
-
-            } else if (typeof propertiesObject[key] == 'object' && dataObj[key]) {
-                targetObj[key] = this.addPropertiesToObject(dataObj[key], propertiesObject[key]);
-            }
-        });
-
-        return targetObj;
-    }
+    return targetObj;
+  };
 }
 
 /**
@@ -76,20 +77,20 @@ class Transformer {
  */
 
 const transformHandler = (data: unknown, callback: Function) => {
-    let transformedData: object[] = [];
+  let transformedData: object[] = [];
 
-    if (data && Array.isArray(data)) {
-        data.forEach((obj) => {
-            transformedData.push(callback(obj));
-        });
-        return transformedData;
-    }
+  if (data && Array.isArray(data)) {
+    data.forEach((obj) => {
+      transformedData.push(callback(obj));
+    });
+    return transformedData;
+  }
 
-    if (!data) {
-        return [];
-    }
+  if (!data) {
+    return [];
+  }
 
-    return callback(data);
+  return callback(data);
 };
 
 export { Transformer, transformHandler };

@@ -3,9 +3,9 @@ import { validationHandler } from "../../common/validation.common";
 
 // login validation schema
 const loginSchema = Joi.object({
-    email: Joi.string().email().required(),
-    role: Joi.string().valid('author', 'editor', 'reviewer', 'admin').required(),
-    password: Joi.string().min(8).required(),
+  email: Joi.string().email().required(),
+  role: Joi.string().valid("author", "editor", "reviewer", "admin").required(),
+  password: Joi.string().min(8).required(),
 });
 
 // login validation middleware
