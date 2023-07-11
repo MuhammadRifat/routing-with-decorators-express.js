@@ -5,7 +5,7 @@
     },
     "jwt": {
         "secret": "jwt_secret",
-        "accessTokenExpiresIn": "2 days"
+        "accessTokenExpiresIn": "2d"
     },
     "dbConfig": {
         "url": "mongodb://0.0.0.0:27017/journal",

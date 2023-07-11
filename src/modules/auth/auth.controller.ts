@@ -1,14 +1,15 @@
 import { NextFunction, Request, Response } from "express";
-import { IUser } from "../users/user.interface";
 import { userService } from "../users/user.service";
 import bcryptjs from "bcryptjs";
 import { ApiError } from "../../errors/ApiError";
 import { userTransformer } from "../users/user.transformer";
+import { unAuthorized } from "../../common/response-handler.common";
+import * as authFunction from "./auth.function";
 
 /**
  * 
  * @objective user login
- * @endpoint /login
+ * @endpoint /api/v1/login
  * @method POST
  */
 const login = async (req: Request, res: Response, next: NextFunction) => {
@@ -24,13 +25,17 @@ const login = async (req: Request, res: Response, next: NextFunction) => {
             throw new ApiError(404, "User not found!");
         }
 
+        // password comparing
         const isPasswordMatched: boolean = await bcryptjs.compare(req.body.password, user.password);
         if (!isPasswordMatched) {
-            return res.render("login", { message: "Password Incorrect!" });
+            throw new ApiError(unAuthorized(), "unauthorized");
         }
 
+        //generate toke 
+        const token = authFunction.generateJWTToken({ _id: user._id, role: user.role });
+
         return res.ok({
-            token: "akdfjk",
+            token: token,
             user: userTransformer(user)
         });
     } catch (error) {

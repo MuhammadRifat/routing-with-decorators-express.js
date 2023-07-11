@@ -92,3 +92,55 @@
 [2023-07-10T13:56:25.684] [ERROR] default - SIGTERM
 [2023-07-10T13:56:25.684] [INFO] default - SIGTERM received
 [2023-07-10T13:56:27.408] [INFO] default - Server run on the port 3000
+[2023-07-11T10:23:30.501] [INFO] default - Server run on the port 3000
+[2023-07-11T10:30:27.583] [ERROR] default - SIGTERM
+[2023-07-11T10:30:27.583] [INFO] default - SIGTERM received
+[2023-07-11T10:30:29.364] [INFO] default - Server run on the port 3000
+[2023-07-11T10:30:48.135] [ERROR] default - SIGTERM
+[2023-07-11T10:30:48.136] [INFO] default - SIGTERM received
+[2023-07-11T10:30:49.906] [INFO] default - Server run on the port 3000
+[2023-07-11T10:30:54.801] [ERROR] default - SIGTERM
+[2023-07-11T10:30:54.802] [INFO] default - SIGTERM received
+[2023-07-11T10:30:56.536] [INFO] default - Server run on the port 3000
+[2023-07-11T10:31:23.572] [ERROR] default - SIGTERM
+[2023-07-11T10:31:23.573] [INFO] default - SIGTERM received
+[2023-07-11T10:31:25.299] [INFO] default - Server run on the port 3000
+[2023-07-11T11:05:16.192] [ERROR] default - SIGTERM
+[2023-07-11T11:05:16.193] [INFO] default - SIGTERM received
+[2023-07-11T11:05:17.929] [INFO] default - Server run on the port 3000
+[2023-07-11T11:05:22.487] [ERROR] default - SIGTERM
+[2023-07-11T11:05:22.489] [INFO] default - SIGTERM received
+[2023-07-11T11:05:24.367] [INFO] default - Server run on the port 3000
+[2023-07-11T11:06:47.743] [ERROR] default - SIGTERM
+[2023-07-11T11:06:47.743] [INFO] default - SIGTERM received
+[2023-07-11T11:06:49.591] [INFO] default - Server run on the port 3000
+[2023-07-11T11:09:20.323] [ERROR] default - SIGTERM
+[2023-07-11T11:09:20.324] [INFO] default - SIGTERM received
+[2023-07-11T11:09:22.020] [INFO] default - Server run on the port 3000
+[2023-07-11T11:10:07.379] [ERROR] default - SIGTERM
+[2023-07-11T11:10:07.381] [INFO] default - SIGTERM received
+[2023-07-11T11:10:09.068] [INFO] default - Server run on the port 3000
+[2023-07-11T11:10:25.945] [ERROR] default - SIGTERM
+[2023-07-11T11:10:25.946] [INFO] default - SIGTERM received
+[2023-07-11T11:10:27.736] [INFO] default - Server run on the port 3000
+[2023-07-11T11:10:35.757] [ERROR] default - unauthorized
+[2023-07-11T11:12:18.793] [ERROR] default - SIGTERM
+[2023-07-11T11:12:18.794] [INFO] default - SIGTERM received
+[2023-07-11T11:12:20.469] [INFO] default - Server run on the port 3000
+[2023-07-11T11:12:24.849] [ERROR] default - SIGTERM
+[2023-07-11T11:12:24.851] [INFO] default - SIGTERM received
+[2023-07-11T11:12:26.569] [INFO] default - Server run on the port 3000
+[2023-07-11T11:13:09.583] [ERROR] default - SIGTERM
+[2023-07-11T11:13:09.584] [INFO] default - SIGTERM received
+[2023-07-11T11:13:11.407] [INFO] default - Server run on the port 3000
+[2023-07-11T11:19:43.376] [ERROR] default - SIGTERM
+[2023-07-11T11:19:43.377] [INFO] default - SIGTERM received
+[2023-07-11T11:19:45.033] [INFO] default - Server run on the port 3000
+[2023-07-11T11:20:30.299] [ERROR] default - SIGTERM
+[2023-07-11T11:20:30.300] [INFO] default - SIGTERM received
+[2023-07-11T11:20:31.985] [INFO] default - Server run on the port 3000
+[2023-07-11T11:20:43.612] [ERROR] default - unauthorized!
+[2023-07-11T11:20:46.131] [ERROR] default - unauthorized!
+[2023-07-11T11:20:52.053] [ERROR] default - SIGTERM
+[2023-07-11T11:20:52.055] [INFO] default - SIGTERM received
+[2023-07-11T11:20:53.881] [INFO] default - Server run on the port 3000
