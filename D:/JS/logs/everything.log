@@ -144,3 +144,12 @@
 [2023-07-11T11:20:52.053] [ERROR] default - SIGTERM
 [2023-07-11T11:20:52.055] [INFO] default - SIGTERM received
 [2023-07-11T11:20:53.881] [INFO] default - Server run on the port 3000
+[2023-07-11T11:25:32.798] [ERROR] default - SIGTERM
+[2023-07-11T11:25:32.799] [INFO] default - SIGTERM received
+[2023-07-11T11:25:34.624] [INFO] default - Server run on the port 3000
+[2023-07-11T11:26:16.881] [ERROR] default - SIGTERM
+[2023-07-11T11:26:16.882] [INFO] default - SIGTERM received
+[2023-07-11T11:26:18.563] [INFO] default - Server run on the port 3000
+[2023-07-11T11:26:43.470] [ERROR] default - SIGTERM
+[2023-07-11T11:26:43.472] [INFO] default - SIGTERM received
+[2023-07-11T11:26:45.242] [INFO] default - Server run on the port 3000
