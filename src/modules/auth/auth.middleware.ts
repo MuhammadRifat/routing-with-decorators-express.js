@@ -2,6 +2,11 @@ import { NextFunction, Request, Response } from "express"
 import { ApiError } from "../../errors/ApiError";
 import * as authFunction from "./auth.function";
 
+/**
+ * @objective Middleware for checking auth
+ * @param role 
+ * @returns 
+ */
 export const checkAuth = (role: string | string[]) => {
     return (req: Request, res: Response, next: NextFunction) => {
         try {

@@ -1,5 +1,4 @@
-import { ObjectId } from "mongoose";
-import { IAuditTrail, ICommon } from "../../common/interface.common";
+import { ICommon } from "../../common/interface.common";
 
 interface IUser {
     name: string;
@@ -8,6 +7,6 @@ interface IUser {
     password: string
 }
 
-interface IUserDoc extends IUser, ICommon {}
+interface IUserDoc extends IUser, ICommon { }
 
 export { IUser, IUserDoc };

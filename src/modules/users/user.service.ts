@@ -1,4 +1,4 @@
-import mongoose, { Aggregate, Model } from "mongoose";
+import { Aggregate } from "mongoose";
 import { User } from "./user.model";
 import { Service } from "../../common/service.common";
 import { IModel } from "../../common/mongoose-schema.common";

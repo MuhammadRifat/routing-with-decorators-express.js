@@ -24,7 +24,7 @@ const userSchema = new MongooseSchema<IUserDoc>({
     }
 });
 
-// created user model
+// create user model
 const User = model<IUserDoc, IModel<IUserDoc>>("User", userSchema);
 
 export { User };

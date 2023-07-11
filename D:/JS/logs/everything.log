@@ -153,3 +153,32 @@
 [2023-07-11T11:26:43.470] [ERROR] default - SIGTERM
 [2023-07-11T11:26:43.472] [INFO] default - SIGTERM received
 [2023-07-11T11:26:45.242] [INFO] default - Server run on the port 3000
+[2023-07-11T11:29:22.936] [INFO] default - Server run on the port 3000
+[2023-07-11T11:30:45.376] [ERROR] default - E11000 duplicate key error collection: journal.users index: email_1 dup key: { email: "rifat1@gmail.com" }
+[2023-07-11T11:31:48.562] [ERROR] default - SIGTERM
+[2023-07-11T11:31:48.563] [INFO] default - SIGTERM received
+[2023-07-11T11:31:50.301] [INFO] default - Server run on the port 3000
+[2023-07-11T11:32:17.254] [ERROR] default - SIGTERM
+[2023-07-11T11:32:17.254] [INFO] default - SIGTERM received
+[2023-07-11T11:32:18.959] [INFO] default - Server run on the port 3000
+[2023-07-11T11:32:19.117] [ERROR] default - SIGTERM
+[2023-07-11T11:32:19.118] [INFO] default - SIGTERM received
+[2023-07-11T11:32:20.882] [INFO] default - Server run on the port 3000
+[2023-07-11T11:32:33.572] [ERROR] default - SIGTERM
+[2023-07-11T11:32:33.573] [INFO] default - SIGTERM received
+[2023-07-11T11:32:35.318] [INFO] default - Server run on the port 3000
+[2023-07-11T11:32:43.761] [ERROR] default - SIGTERM
+[2023-07-11T11:32:43.763] [INFO] default - SIGTERM received
+[2023-07-11T11:32:45.633] [INFO] default - Server run on the port 3000
+[2023-07-11T11:32:51.239] [ERROR] default - SIGTERM
+[2023-07-11T11:32:51.240] [INFO] default - SIGTERM received
+[2023-07-11T11:32:53.591] [INFO] default - Server run on the port 3000
+[2023-07-11T11:33:34.276] [ERROR] default - SIGTERM
+[2023-07-11T11:33:34.277] [INFO] default - SIGTERM received
+[2023-07-11T11:33:35.979] [INFO] default - Server run on the port 3000
+[2023-07-11T11:33:42.379] [ERROR] default - SIGTERM
+[2023-07-11T11:33:42.380] [INFO] default - SIGTERM received
+[2023-07-11T11:33:44.242] [INFO] default - Server run on the port 3000
+[2023-07-11T11:33:49.513] [ERROR] default - SIGTERM
+[2023-07-11T11:33:49.514] [INFO] default - SIGTERM received
+[2023-07-11T11:33:51.180] [INFO] default - Server run on the port 3000

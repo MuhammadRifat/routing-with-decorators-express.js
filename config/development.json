@@ -5,16 +5,15 @@
     },
     "jwt": {
         "secret": "jwt_secret",
-        "accessTokenExpiresIn": "2 days"
+        "accessTokenExpiresIn": "2d"
     },
-    "db": {
-        "journal": {
-            "url": "mongodb://0.0.0.0:27017/journal",
-            "collections": {
-                "journals": "journals",
-                "articles": "articles",
-                "users": "users"
-            }
+    "dbConfig": {
+        "url": "mongodb://0.0.0.0:27017/journal",
+        "collections": {
+            "journals": "journals",
+            "articles": "articles",
+            "users": "users",
+            "counters": "counters"
         }
     },
     "log4js": {
