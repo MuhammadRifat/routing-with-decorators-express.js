@@ -1,5 +1,5 @@
 {
-  "name": "basic-boilerplate",
+  "name": "routing-with-decorators-express.js",
   "version": "1.0.0",
   "description": "basic structure for node typescript app",
   "main": "index.js",
