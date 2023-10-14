@@ -183,3 +183,483 @@
 [2023-07-11T11:33:49.514] [INFO] default - SIGTERM received
 [2023-07-11T11:33:51.180] [INFO] default - Server run on the port 3000
 [2023-07-11T11:36:06.670] [INFO] default - Server run on the port 3000
+[2023-10-12T20:11:26.358] [INFO] default - Server run on the port 3000
+[2023-10-12T20:11:27.193] [ERROR] default - Route not found!
+[2023-10-12T20:11:27.693] [ERROR] default - Route not found!
+[2023-10-12T20:11:29.476] [ERROR] default - Route not found!
+[2023-10-12T20:17:49.592] [ERROR] default - SIGTERM
+[2023-10-12T20:17:49.594] [INFO] default - SIGTERM received
+[2023-10-12T20:29:02.414] [INFO] default - Server run on the port 3000
+[2023-10-12T20:29:50.257] [ERROR] default - SIGTERM
+[2023-10-12T20:29:50.258] [INFO] default - SIGTERM received
+[2023-10-12T20:29:53.396] [INFO] default - Server run on the port 3000
+[2023-10-12T20:30:14.167] [ERROR] default - SIGTERM
+[2023-10-12T20:30:14.169] [INFO] default - SIGTERM received
+[2023-10-12T20:30:17.219] [INFO] default - Server run on the port 3000
+[2023-10-12T20:32:01.748] [ERROR] default - SIGTERM
+[2023-10-12T20:32:01.752] [INFO] default - SIGTERM received
+[2023-10-12T20:32:43.966] [INFO] default - Server run on the port 3000
+[2023-10-12T20:33:02.483] [ERROR] default - SIGTERM
+[2023-10-12T20:33:02.484] [INFO] default - SIGTERM received
+[2023-10-12T20:33:06.587] [INFO] default - Server run on the port 3000
+[2023-10-12T20:33:32.376] [ERROR] default - SIGTERM
+[2023-10-12T20:33:32.379] [INFO] default - SIGTERM received
+[2023-10-12T20:33:36.122] [INFO] default - Server run on the port 3000
+[2023-10-12T20:33:43.605] [ERROR] default - SIGTERM
+[2023-10-12T20:33:43.606] [INFO] default - SIGTERM received
+[2023-10-12T20:33:46.894] [INFO] default - Server run on the port 3000
+[2023-10-12T20:34:04.179] [ERROR] default - SIGTERM
+[2023-10-12T20:34:04.183] [INFO] default - SIGTERM received
+[2023-10-12T20:34:07.292] [INFO] default - Server run on the port 3000
+[2023-10-12T20:34:39.890] [ERROR] default - SIGTERM
+[2023-10-12T20:34:39.895] [INFO] default - SIGTERM received
+[2023-10-12T20:34:43.025] [INFO] default - Server run on the port 3000
+[2023-10-12T20:35:07.769] [ERROR] default - SIGTERM
+[2023-10-12T20:35:07.772] [INFO] default - SIGTERM received
+[2023-10-12T20:35:11.001] [INFO] default - Server run on the port 3000
+[2023-10-12T20:36:27.281] [ERROR] default - SIGTERM
+[2023-10-12T20:36:27.282] [INFO] default - SIGTERM received
+[2023-10-12T20:36:30.983] [INFO] default - Server run on the port 3000
+[2023-10-12T20:36:31.829] [ERROR] default - SIGTERM
+[2023-10-12T20:36:31.830] [INFO] default - SIGTERM received
+[2023-10-12T20:36:35.498] [INFO] default - Server run on the port 3000
+[2023-10-12T20:36:42.507] [ERROR] default - SIGTERM
+[2023-10-12T20:36:42.509] [INFO] default - SIGTERM received
+[2023-10-12T20:36:45.687] [INFO] default - Server run on the port 3000
+[2023-10-12T20:37:07.850] [ERROR] default - SIGTERM
+[2023-10-12T20:37:07.852] [INFO] default - SIGTERM received
+[2023-10-12T20:37:11.311] [INFO] default - Server run on the port 3000
+[2023-10-12T20:37:46.153] [ERROR] default - SIGTERM
+[2023-10-12T20:37:46.157] [INFO] default - SIGTERM received
+[2023-10-12T20:37:49.370] [INFO] default - Server run on the port 3000
+[2023-10-12T20:38:09.073] [ERROR] default - SIGTERM
+[2023-10-12T20:38:09.075] [INFO] default - SIGTERM received
+[2023-10-12T20:38:12.355] [INFO] default - Server run on the port 3000
+[2023-10-12T20:38:41.128] [ERROR] default - SIGTERM
+[2023-10-12T20:38:41.129] [INFO] default - SIGTERM received
+[2023-10-12T20:38:44.315] [INFO] default - Server run on the port 3000
+[2023-10-12T20:39:07.125] [ERROR] default - SIGTERM
+[2023-10-12T20:39:07.126] [INFO] default - SIGTERM received
+[2023-10-12T20:39:10.393] [INFO] default - Server run on the port 3000
+[2023-10-12T20:39:51.409] [ERROR] default - SIGTERM
+[2023-10-12T20:39:51.410] [INFO] default - SIGTERM received
+[2023-10-12T20:39:54.506] [INFO] default - Server run on the port 3000
+[2023-10-12T20:41:59.689] [ERROR] default - SIGTERM
+[2023-10-12T20:41:59.692] [INFO] default - SIGTERM received
+[2023-10-12T20:42:03.277] [INFO] default - Server run on the port 3000
+[2023-10-12T20:43:04.533] [ERROR] default - SIGTERM
+[2023-10-12T20:43:04.535] [INFO] default - SIGTERM received
+[2023-10-12T20:43:07.784] [INFO] default - Server run on the port 3000
+[2023-10-12T20:43:34.295] [ERROR] default - SIGTERM
+[2023-10-12T20:43:34.297] [INFO] default - SIGTERM received
+[2023-10-12T20:43:38.098] [INFO] default - Server run on the port 3000
+[2023-10-12T20:44:09.755] [ERROR] default - SIGTERM
+[2023-10-12T20:44:09.758] [INFO] default - SIGTERM received
+[2023-10-12T20:44:13.740] [INFO] default - Server run on the port 3000
+[2023-10-12T20:45:08.302] [ERROR] default - SIGTERM
+[2023-10-12T20:45:08.304] [INFO] default - SIGTERM received
+[2023-10-12T20:45:40.815] [INFO] default - Server run on the port 3000
+[2023-10-12T20:46:27.707] [ERROR] default - SIGTERM
+[2023-10-12T20:46:27.708] [INFO] default - SIGTERM received
+[2023-10-12T20:46:31.184] [INFO] default - Server run on the port 3000
+[2023-10-12T20:47:05.897] [ERROR] default - SIGTERM
+[2023-10-12T20:47:05.900] [INFO] default - SIGTERM received
+[2023-10-12T20:47:08.965] [INFO] default - Server run on the port 3000
+[2023-10-12T20:47:31.115] [ERROR] default - SIGTERM
+[2023-10-12T20:47:31.116] [INFO] default - SIGTERM received
+[2023-10-12T20:47:34.275] [INFO] default - Server run on the port 3000
+[2023-10-12T20:48:57.332] [ERROR] default - SIGTERM
+[2023-10-12T20:48:57.334] [INFO] default - SIGTERM received
+[2023-10-12T20:49:00.398] [INFO] default - Server run on the port 3000
+[2023-10-12T20:51:14.719] [ERROR] default - SIGTERM
+[2023-10-12T20:51:14.722] [INFO] default - SIGTERM received
+[2023-10-12T20:51:17.833] [INFO] default - Server run on the port 3000
+[2023-10-12T20:52:53.694] [ERROR] default - SIGTERM
+[2023-10-12T20:52:53.695] [INFO] default - SIGTERM received
+[2023-10-12T20:52:56.761] [INFO] default - Server run on the port 3000
+[2023-10-12T20:53:50.946] [ERROR] default - SIGTERM
+[2023-10-12T20:53:50.947] [INFO] default - SIGTERM received
+[2023-10-12T20:53:53.964] [INFO] default - Server run on the port 3000
+[2023-10-12T20:57:43.161] [ERROR] default - SIGTERM
+[2023-10-12T20:57:43.163] [INFO] default - SIGTERM received
+[2023-10-12T20:57:46.251] [INFO] default - Server run on the port 3000
+[2023-10-12T21:02:30.994] [ERROR] default - SIGTERM
+[2023-10-12T21:02:30.996] [INFO] default - SIGTERM received
+[2023-10-12T21:02:34.445] [INFO] default - Server run on the port 3000
+[2023-10-12T21:02:54.823] [ERROR] default - SIGTERM
+[2023-10-12T21:02:54.825] [INFO] default - SIGTERM received
+[2023-10-12T21:02:58.733] [INFO] default - Server run on the port 3000
+[2023-10-12T21:03:17.134] [ERROR] default - SIGTERM
+[2023-10-12T21:03:17.135] [INFO] default - SIGTERM received
+[2023-10-12T21:03:21.028] [INFO] default - Server run on the port 3000
+[2023-10-12T21:03:24.377] [ERROR] default - Route not found!
+[2023-10-12T21:03:24.661] [ERROR] default - Route not found!
+[2023-10-12T21:03:26.129] [ERROR] default - Route not found!
+[2023-10-12T21:03:28.262] [ERROR] default - Route not found!
+[2023-10-12T21:03:28.535] [ERROR] default - Route not found!
+[2023-10-12T21:03:30.436] [ERROR] default - Route not found!
+[2023-10-12T21:04:40.951] [ERROR] default - SIGTERM
+[2023-10-12T21:04:40.953] [INFO] default - SIGTERM received
+[2023-10-12T21:04:45.066] [INFO] default - Server run on the port 3000
+[2023-10-12T21:04:59.288] [ERROR] default - SIGTERM
+[2023-10-12T21:04:59.290] [INFO] default - SIGTERM received
+[2023-10-12T21:05:03.035] [INFO] default - Server run on the port 3000
+[2023-10-12T21:05:49.504] [ERROR] default - SIGTERM
+[2023-10-12T21:05:49.507] [INFO] default - SIGTERM received
+[2023-10-12T21:05:53.116] [INFO] default - Server run on the port 3000
+[2023-10-12T21:47:35.855] [ERROR] default - SIGTERM
+[2023-10-12T21:47:35.859] [INFO] default - SIGTERM received
+[2023-10-12T21:47:39.658] [INFO] default - Server run on the port 3000
+[2023-10-12T21:49:25.082] [ERROR] default - SIGTERM
+[2023-10-12T21:49:25.084] [INFO] default - SIGTERM received
+[2023-10-12T21:49:29.773] [INFO] default - Server run on the port 3000
+[2023-10-12T21:49:36.345] [ERROR] default - SIGTERM
+[2023-10-12T21:49:36.346] [INFO] default - SIGTERM received
+[2023-10-12T21:49:39.784] [INFO] default - Server run on the port 3000
+[2023-10-12T21:49:58.477] [ERROR] default - SIGTERM
+[2023-10-12T21:49:58.478] [INFO] default - SIGTERM received
+[2023-10-12T21:50:02.644] [INFO] default - Server run on the port 3000
+[2023-10-12T22:04:10.578] [ERROR] default - SIGTERM
+[2023-10-12T22:04:10.580] [INFO] default - SIGTERM received
+[2023-10-12T22:04:12.316] [INFO] default - Server run on the port 3000
+[2023-10-13T01:04:40.843] [INFO] default - Server run on the port 3000
+[2023-10-13T01:28:47.454] [ERROR] default - SIGTERM
+[2023-10-13T01:28:47.582] [INFO] default - SIGTERM received
+[2023-10-14T08:55:41.696] [INFO] default - Server run on the port 3000
+[2023-10-14T08:56:19.442] [ERROR] default - SIGTERM
+[2023-10-14T08:56:19.445] [INFO] default - SIGTERM received
+[2023-10-14T08:56:23.202] [INFO] default - Server run on the port 3000
+[2023-10-14T09:00:15.138] [ERROR] default - SIGTERM
+[2023-10-14T09:00:15.141] [INFO] default - SIGTERM received
+[2023-10-14T09:00:18.746] [INFO] default - Server run on the port 3000
+[2023-10-14T09:10:46.156] [ERROR] default - SIGTERM
+[2023-10-14T09:10:46.158] [INFO] default - SIGTERM received
+[2023-10-14T09:10:49.604] [INFO] default - Server run on the port 3000
+[2023-10-14T09:11:05.387] [ERROR] default - SIGTERM
+[2023-10-14T09:11:05.388] [INFO] default - SIGTERM received
+[2023-10-14T09:11:08.489] [INFO] default - Server run on the port 3000
+[2023-10-14T09:13:56.887] [ERROR] default - SIGTERM
+[2023-10-14T09:13:56.889] [INFO] default - SIGTERM received
+[2023-10-14T09:14:00.841] [INFO] default - Server run on the port 3000
+[2023-10-14T09:14:11.665] [ERROR] default - SIGTERM
+[2023-10-14T09:14:11.667] [INFO] default - SIGTERM received
+[2023-10-14T09:14:15.154] [INFO] default - Server run on the port 3000
+[2023-10-14T09:20:33.507] [ERROR] default - SIGTERM
+[2023-10-14T09:20:33.508] [INFO] default - SIGTERM received
+[2023-10-14T09:20:36.842] [INFO] default - Server run on the port 3000
+[2023-10-14T09:21:10.326] [ERROR] default - SIGTERM
+[2023-10-14T09:21:10.329] [INFO] default - SIGTERM received
+[2023-10-14T09:21:14.318] [INFO] default - Server run on the port 3000
+[2023-10-14T09:23:52.660] [ERROR] default - SIGTERM
+[2023-10-14T09:23:52.662] [INFO] default - SIGTERM received
+[2023-10-14T09:24:44.908] [INFO] default - Server run on the port 3000
+[2023-10-14T09:24:57.381] [ERROR] default - SIGTERM
+[2023-10-14T09:24:57.383] [INFO] default - SIGTERM received
+[2023-10-14T09:25:00.864] [INFO] default - Server run on the port 3000
+[2023-10-14T09:25:19.062] [ERROR] default - SIGTERM
+[2023-10-14T09:25:19.066] [INFO] default - SIGTERM received
+[2023-10-14T09:25:22.272] [INFO] default - Server run on the port 3000
+[2023-10-14T09:26:02.612] [ERROR] default - SIGTERM
+[2023-10-14T09:26:02.614] [INFO] default - SIGTERM received
+[2023-10-14T09:26:06.029] [INFO] default - Server run on the port 3000
+[2023-10-14T09:26:51.002] [ERROR] default - Route not found!
+[2023-10-14T09:26:51.521] [ERROR] default - Route not found!
+[2023-10-14T09:26:53.324] [ERROR] default - Route not found!
+[2023-10-14T09:26:56.906] [ERROR] default - Route not found!
+[2023-10-14T09:26:57.194] [ERROR] default - Route not found!
+[2023-10-14T09:26:59.079] [ERROR] default - Route not found!
+[2023-10-14T09:27:00.188] [ERROR] default - Route not found!
+[2023-10-14T09:27:01.910] [ERROR] default - Route not found!
+[2023-10-14T09:27:04.466] [ERROR] default - Route not found!
+[2023-10-14T09:27:04.726] [ERROR] default - Route not found!
+[2023-10-14T09:27:06.178] [ERROR] default - Route not found!
+[2023-10-14T09:27:10.574] [ERROR] default - Route not found!
+[2023-10-14T09:27:12.464] [ERROR] default - Route not found!
+[2023-10-14T09:27:36.802] [ERROR] default - SIGTERM
+[2023-10-14T09:27:36.802] [INFO] default - SIGTERM received
+[2023-10-14T09:27:40.189] [INFO] default - Server run on the port 3000
+[2023-10-14T09:27:43.567] [ERROR] default - Route not found!
+[2023-10-14T09:27:45.495] [ERROR] default - Route not found!
+[2023-10-14T09:27:58.050] [ERROR] default - Route not found!
+[2023-10-14T09:27:59.941] [ERROR] default - Route not found!
+[2023-10-14T10:07:15.396] [ERROR] default - SIGTERM
+[2023-10-14T10:07:15.397] [INFO] default - SIGTERM received
+[2023-10-14T10:07:17.127] [INFO] default - Server run on the port 3000
+[2023-10-14T10:43:46.418] [ERROR] default - SIGTERM
+[2023-10-14T10:43:46.419] [INFO] default - SIGTERM received
+[2023-10-14T10:44:13.240] [INFO] default - Server run on the port 3000
+[2023-10-14T10:44:52.003] [ERROR] default - SIGTERM
+[2023-10-14T10:44:52.005] [INFO] default - SIGTERM received
+[2023-10-14T10:44:53.924] [INFO] default - Server run on the port 3000
+[2023-10-14T10:47:15.944] [ERROR] default - SIGTERM
+[2023-10-14T10:47:15.944] [INFO] default - SIGTERM received
+[2023-10-14T10:47:17.757] [INFO] default - Server run on the port 3000
+[2023-10-14T10:47:45.635] [ERROR] default - Route not found!
+[2023-10-14T10:47:47.594] [ERROR] default - Route not found!
+[2023-10-14T10:47:56.313] [ERROR] default - Route not found!
+[2023-10-14T10:47:58.283] [ERROR] default - Route not found!
+[2023-10-14T10:48:15.425] [ERROR] default - SIGTERM
+[2023-10-14T10:48:15.426] [INFO] default - SIGTERM received
+[2023-10-14T10:48:17.255] [INFO] default - Server run on the port 3000
+[2023-10-14T10:48:19.984] [ERROR] default - Route not found!
+[2023-10-14T10:48:21.959] [ERROR] default - Route not found!
+[2023-10-14T10:48:22.745] [ERROR] default - Route not found!
+[2023-10-14T10:48:24.737] [ERROR] default - Route not found!
+[2023-10-14T10:50:27.798] [ERROR] default - SIGTERM
+[2023-10-14T10:50:27.799] [INFO] default - SIGTERM received
+[2023-10-14T10:50:29.561] [INFO] default - Server run on the port 3000
+[2023-10-14T10:51:04.730] [ERROR] default - SIGTERM
+[2023-10-14T10:51:04.731] [INFO] default - SIGTERM received
+[2023-10-14T10:51:06.446] [INFO] default - Server run on the port 3000
+[2023-10-14T10:52:03.408] [ERROR] default - SIGTERM
+[2023-10-14T10:52:03.409] [INFO] default - SIGTERM received
+[2023-10-14T10:52:05.146] [INFO] default - Server run on the port 3000
+[2023-10-14T10:52:22.577] [ERROR] default - SIGTERM
+[2023-10-14T10:52:22.578] [INFO] default - SIGTERM received
+[2023-10-14T10:52:24.300] [INFO] default - Server run on the port 3000
+[2023-10-14T10:55:31.449] [ERROR] default - SIGTERM
+[2023-10-14T10:55:31.449] [INFO] default - SIGTERM received
+[2023-10-14T10:55:33.210] [INFO] default - Server run on the port 3000
+[2023-10-14T10:55:57.713] [ERROR] default - SIGTERM
+[2023-10-14T10:55:57.714] [INFO] default - SIGTERM received
+[2023-10-14T10:55:59.504] [INFO] default - Server run on the port 3000
+[2023-10-14T10:56:41.330] [ERROR] default - SIGTERM
+[2023-10-14T10:56:41.332] [INFO] default - SIGTERM received
+[2023-10-14T10:56:43.057] [INFO] default - Server run on the port 3000
+[2023-10-14T10:58:29.878] [ERROR] default - SIGTERM
+[2023-10-14T10:58:29.878] [INFO] default - SIGTERM received
+[2023-10-14T10:58:31.670] [INFO] default - Server run on the port 3000
+[2023-10-14T11:02:30.231] [ERROR] default - SIGTERM
+[2023-10-14T11:02:30.232] [INFO] default - SIGTERM received
+[2023-10-14T11:02:31.944] [INFO] default - Server run on the port 3000
+[2023-10-14T11:03:46.767] [ERROR] default - SIGTERM
+[2023-10-14T11:03:46.768] [INFO] default - SIGTERM received
+[2023-10-14T11:03:48.434] [INFO] default - Server run on the port 3000
+[2023-10-14T11:04:45.545] [ERROR] default - SIGTERM
+[2023-10-14T11:04:45.547] [INFO] default - SIGTERM received
+[2023-10-14T11:04:47.589] [INFO] default - Server run on the port 3000
+[2023-10-14T11:06:09.288] [ERROR] default - SIGTERM
+[2023-10-14T11:06:09.290] [INFO] default - SIGTERM received
+[2023-10-14T11:06:11.314] [INFO] default - Server run on the port 3000
+[2023-10-14T11:26:55.785] [ERROR] default - SIGTERM
+[2023-10-14T11:26:55.786] [INFO] default - SIGTERM received
+[2023-10-14T11:26:57.505] [INFO] default - Server run on the port 3000
+[2023-10-14T11:29:12.287] [ERROR] default - SIGTERM
+[2023-10-14T11:29:12.288] [INFO] default - SIGTERM received
+[2023-10-14T11:29:13.970] [INFO] default - Server run on the port 3000
+[2023-10-14T11:30:14.608] [ERROR] default - SIGTERM
+[2023-10-14T11:30:14.609] [INFO] default - SIGTERM received
+[2023-10-14T11:30:16.315] [INFO] default - Server run on the port 3000
+[2023-10-14T11:35:21.770] [ERROR] default - Route not found!
+[2023-10-14T13:50:51.785] [ERROR] default - SIGTERM
+[2023-10-14T13:50:51.786] [INFO] default - SIGTERM received
+[2023-10-14T13:50:53.756] [INFO] default - Server run on the port 3000
+[2023-10-14T13:51:00.142] [ERROR] default - Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+[2023-10-14T13:51:00.207] [ERROR] default - Route not found!
+[2023-10-14T13:51:02.197] [ERROR] default - Route not found!
+[2023-10-14T13:51:02.289] [ERROR] default - Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+[2023-10-14T13:51:02.389] [ERROR] default - Route not found!
+[2023-10-14T13:51:04.004] [ERROR] default - Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+[2023-10-14T13:51:04.070] [ERROR] default - Route not found!
+[2023-10-14T13:51:04.086] [ERROR] default - Route not found!
+[2023-10-14T13:51:06.061] [ERROR] default - Route not found!
+[2023-10-14T13:51:23.313] [INFO] default - Server run on the port 3000
+[2023-10-14T13:51:28.031] [ERROR] default - Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+[2023-10-14T13:51:28.110] [ERROR] default - Route not found!
+[2023-10-14T13:51:29.738] [ERROR] default - Route not found!
+[2023-10-14T13:52:25.585] [ERROR] default - SIGTERM
+[2023-10-14T13:52:25.586] [INFO] default - SIGTERM received
+[2023-10-14T13:52:27.405] [INFO] default - Server run on the port 3000
+[2023-10-14T13:52:33.632] [ERROR] default - Route not found!
+[2023-10-14T13:52:35.618] [ERROR] default - Route not found!
+[2023-10-14T13:52:50.540] [INFO] default - Server run on the port 3000
+[2023-10-14T13:52:56.434] [ERROR] default - Route not found!
+[2023-10-14T13:52:58.419] [ERROR] default - Route not found!
+[2023-10-14T13:53:10.280] [ERROR] default - Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+[2023-10-14T13:53:20.519] [ERROR] default - Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+[2023-10-14T13:53:39.525] [INFO] default - Server run on the port 3000
+[2023-10-14T13:53:45.474] [ERROR] default - Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property '_writableState' -> object with constructor 'WritableState'
+    |     property 'afterWriteTickInfo' -> object with constructor 'Object'
+    --- property 'stream' closes the circle
+[2023-10-14T13:54:08.309] [ERROR] default - SIGTERM
+[2023-10-14T13:54:08.310] [INFO] default - SIGTERM received
+[2023-10-14T13:54:10.093] [INFO] default - Server run on the port 3000
+[2023-10-14T13:55:33.369] [ERROR] default - SIGTERM
+[2023-10-14T13:55:33.370] [INFO] default - SIGTERM received
+[2023-10-14T13:55:35.101] [INFO] default - Server run on the port 3000
+[2023-10-14T13:55:41.338] [ERROR] default - response.getContent is not a function
+[2023-10-14T13:55:57.194] [ERROR] default - SIGTERM
+[2023-10-14T13:55:57.198] [INFO] default - SIGTERM received
+[2023-10-14T13:55:58.940] [INFO] default - Server run on the port 3000
+[2023-10-14T13:56:36.429] [ERROR] default - SIGTERM
+[2023-10-14T13:56:36.429] [INFO] default - SIGTERM received
+[2023-10-14T13:56:38.222] [INFO] default - Server run on the port 3000
+[2023-10-14T18:19:39.534] [INFO] default - Server run on the port 3000
+[2023-10-14T18:19:48.547] [ERROR] default - SIGTERM
+[2023-10-14T18:19:48.548] [INFO] default - SIGTERM received
+[2023-10-14T18:19:50.412] [INFO] default - Server run on the port 3000
+[2023-10-14T18:20:41.990] [ERROR] default - SIGTERM
+[2023-10-14T18:20:41.991] [INFO] default - SIGTERM received
+[2023-10-14T18:20:43.703] [INFO] default - Server run on the port 3000
+[2023-10-14T18:20:56.073] [ERROR] default - SIGTERM
+[2023-10-14T18:20:56.076] [INFO] default - SIGTERM received
+[2023-10-14T18:20:57.814] [INFO] default - Server run on the port 3000
+[2023-10-14T18:21:22.386] [ERROR] default - SIGTERM
+[2023-10-14T18:21:22.387] [INFO] default - SIGTERM received
+[2023-10-14T18:21:24.126] [INFO] default - Server run on the port 3000
+[2023-10-14T18:21:27.311] [ERROR] default - SIGTERM
+[2023-10-14T18:21:27.312] [INFO] default - SIGTERM received
+[2023-10-14T18:21:29.044] [INFO] default - Server run on the port 3000
+[2023-10-14T18:21:38.250] [ERROR] default - SIGTERM
+[2023-10-14T18:21:38.251] [INFO] default - SIGTERM received
+[2023-10-14T18:21:39.983] [INFO] default - Server run on the port 3000
+[2023-10-14T18:29:36.822] [ERROR] default - SIGTERM
+[2023-10-14T18:29:36.823] [INFO] default - SIGTERM received
+[2023-10-14T18:29:38.614] [INFO] default - Server run on the port 3000
+[2023-10-14T18:32:29.075] [ERROR] default - SIGTERM
+[2023-10-14T18:32:29.076] [INFO] default - SIGTERM received
+[2023-10-14T18:32:30.903] [INFO] default - Server run on the port 3000
+[2023-10-14T18:32:44.694] [ERROR] default - SIGTERM
+[2023-10-14T18:32:44.694] [INFO] default - SIGTERM received
+[2023-10-14T18:32:46.466] [INFO] default - Server run on the port 3000
+[2023-10-14T18:33:06.369] [ERROR] default - SIGTERM
+[2023-10-14T18:33:06.372] [INFO] default - SIGTERM received
+[2023-10-14T18:33:08.016] [INFO] default - Server run on the port 3000
+[2023-10-14T18:33:36.784] [ERROR] default - SIGTERM
+[2023-10-14T18:33:36.785] [INFO] default - SIGTERM received
+[2023-10-14T18:33:38.501] [INFO] default - Server run on the port 3000
+[2023-10-14T18:39:20.966] [ERROR] default - SIGTERM
+[2023-10-14T18:39:20.967] [INFO] default - SIGTERM received
+[2023-10-14T18:54:46.137] [INFO] default - Server run on the port 3000
+[2023-10-14T18:54:46.761] [ERROR] default - SIGTERM
+[2023-10-14T18:54:46.761] [INFO] default - SIGTERM received
+[2023-10-14T18:54:48.534] [INFO] default - Server run on the port 3000
+[2023-10-14T18:57:14.739] [ERROR] default - SIGTERM
+[2023-10-14T18:57:14.739] [INFO] default - SIGTERM received
+[2023-10-14T18:57:16.476] [INFO] default - Server run on the port 3000
+[2023-10-14T19:04:10.472] [ERROR] default - SIGTERM
+[2023-10-14T19:04:10.472] [INFO] default - SIGTERM received
+[2023-10-14T19:04:12.205] [INFO] default - Server run on the port 3000
+[2023-10-14T19:04:42.722] [ERROR] default - SIGTERM
+[2023-10-14T19:04:42.724] [INFO] default - SIGTERM received
+[2023-10-14T19:04:44.551] [INFO] default - Server run on the port 3000
+[2023-10-14T19:05:00.181] [ERROR] default - SIGTERM
+[2023-10-14T19:05:00.184] [INFO] default - SIGTERM received
+[2023-10-14T19:05:01.854] [INFO] default - Server run on the port 3000
+[2023-10-14T19:07:08.100] [ERROR] default - SIGTERM
+[2023-10-14T19:07:08.101] [INFO] default - SIGTERM received
+[2023-10-14T19:07:09.816] [INFO] default - Server run on the port 3000
+[2023-10-14T19:07:15.880] [ERROR] default - Route not found!
+[2023-10-14T19:08:35.270] [ERROR] default - SIGTERM
+[2023-10-14T19:08:35.271] [INFO] default - SIGTERM received
+[2023-10-14T19:08:36.951] [INFO] default - Server run on the port 3000
+[2023-10-14T19:08:59.399] [ERROR] default - SIGTERM
+[2023-10-14T19:08:59.402] [INFO] default - SIGTERM received
+[2023-10-14T19:09:01.146] [INFO] default - Server run on the port 3000
+[2023-10-14T19:14:00.020] [ERROR] default - SIGTERM
+[2023-10-14T19:14:00.021] [INFO] default - SIGTERM received
+[2023-10-14T19:14:01.902] [INFO] default - Server run on the port 3000
+[2023-10-14T19:22:46.155] [ERROR] default - SIGTERM
+[2023-10-14T19:22:46.156] [INFO] default - SIGTERM received
+[2023-10-14T19:22:47.784] [INFO] default - Server run on the port 3000
+[2023-10-14T19:23:59.767] [ERROR] default - SIGTERM
+[2023-10-14T19:23:59.768] [INFO] default - SIGTERM received
+[2023-10-14T19:24:01.359] [INFO] default - Server run on the port 3000
+[2023-10-14T19:24:09.907] [ERROR] default - SIGTERM
+[2023-10-14T19:24:09.909] [INFO] default - SIGTERM received
+[2023-10-14T19:24:11.459] [INFO] default - Server run on the port 3000
+[2023-10-14T19:26:24.952] [ERROR] default - SIGTERM
+[2023-10-14T19:26:24.952] [INFO] default - SIGTERM received
+[2023-10-14T19:26:26.627] [INFO] default - Server run on the port 3000
+[2023-10-14T19:30:05.608] [ERROR] default - SIGTERM
+[2023-10-14T19:30:05.609] [INFO] default - SIGTERM received
+[2023-10-14T19:30:07.179] [INFO] default - Server run on the port 3000
+[2023-10-14T19:30:55.215] [ERROR] default - Route not found!
+[2023-10-14T19:35:28.303] [ERROR] default - SIGTERM
+[2023-10-14T19:35:28.304] [INFO] default - SIGTERM received
+[2023-10-14T19:48:12.602] [INFO] default - Server run on the port 3000
+[2023-10-14T19:54:34.610] [ERROR] default - SIGTERM
+[2023-10-14T19:54:34.611] [INFO] default - SIGTERM received
+[2023-10-14T19:54:36.197] [INFO] default - Server run on the port 3000
+[2023-10-14T19:54:43.492] [ERROR] default - Route not found!
+[2023-10-14T19:56:21.849] [ERROR] default - SIGTERM
+[2023-10-14T19:56:21.851] [INFO] default - SIGTERM received
+[2023-10-14T20:01:00.637] [INFO] default - Server run on the port 3000
+[2023-10-14T20:01:44.413] [ERROR] default - SIGTERM
+[2023-10-14T20:01:44.414] [INFO] default - SIGTERM received
+[2023-10-14T20:01:45.977] [INFO] default - Server run on the port 3000
+[2023-10-14T20:02:14.353] [ERROR] default - SIGTERM
+[2023-10-14T20:02:14.353] [INFO] default - SIGTERM received
+[2023-10-14T20:02:15.979] [INFO] default - Server run on the port 3000
+[2023-10-14T20:02:35.072] [ERROR] default - SIGTERM
+[2023-10-14T20:02:35.073] [INFO] default - SIGTERM received
+[2023-10-14T20:02:37.038] [INFO] default - Server run on the port 3000
+[2023-10-14T20:02:41.220] [ERROR] default - Route not found!
+[2023-10-14T20:02:44.345] [ERROR] default - Route not found!
+[2023-10-14T20:02:49.918] [ERROR] default - Route not found!
+[2023-10-14T20:06:40.296] [ERROR] default - SIGTERM
+[2023-10-14T20:06:40.296] [INFO] default - SIGTERM received
+[2023-10-14T20:06:41.929] [INFO] default - Server run on the port 3000
+[2023-10-14T20:07:14.962] [ERROR] default - SIGTERM
+[2023-10-14T20:07:14.964] [INFO] default - SIGTERM received
+[2023-10-14T20:07:16.633] [INFO] default - Server run on the port 3000
+[2023-10-14T20:07:44.261] [ERROR] default - SIGTERM
+[2023-10-14T20:07:44.261] [INFO] default - SIGTERM received
+[2023-10-14T20:07:45.805] [INFO] default - Server run on the port 3000
+[2023-10-14T20:08:01.615] [ERROR] default - SIGTERM
+[2023-10-14T20:08:01.616] [INFO] default - SIGTERM received
+[2023-10-14T20:08:03.209] [INFO] default - Server run on the port 3000
+[2023-10-14T20:25:11.727] [INFO] default - Mapped getBlogs: /blogs
+[2023-10-14T20:25:11.729] [INFO] default - Mapped getBlogsById: /blogs/:id
+[2023-10-14T20:25:11.729] [INFO] default - Mapped createBlog: /blogs
+[2023-10-14T20:25:11.730] [INFO] default - Mapped getUsers: /users
+[2023-10-14T20:25:11.730] [INFO] default - Mapped getUsersById: /users/:id
+[2023-10-14T20:25:11.730] [INFO] default - Mapped createUser: /users
+[2023-10-14T20:25:11.730] [INFO] default - Mapped getArticles: /articles
+[2023-10-14T20:25:11.731] [INFO] default - Mapped getArticlesById: /articles/:id
+[2023-10-14T20:25:11.731] [INFO] default - Mapped createArticle: /articles
+[2023-10-14T20:25:11.760] [INFO] default - Server run on the port 3000
+[2023-10-14T20:25:28.731] [ERROR] default - SIGTERM
+[2023-10-14T20:25:28.731] [INFO] default - SIGTERM received
+[2023-10-14T20:25:30.318] [INFO] default - Mapped get: /blogs
+[2023-10-14T20:25:30.320] [INFO] default - Mapped get: /blogs/:id
+[2023-10-14T20:25:30.320] [INFO] default - Mapped post: /blogs
+[2023-10-14T20:25:30.321] [INFO] default - Mapped get: /users
+[2023-10-14T20:25:30.321] [INFO] default - Mapped get: /users/:id
+[2023-10-14T20:25:30.321] [INFO] default - Mapped post: /users
+[2023-10-14T20:25:30.322] [INFO] default - Mapped get: /articles
+[2023-10-14T20:25:30.322] [INFO] default - Mapped get: /articles/:id
+[2023-10-14T20:25:30.322] [INFO] default - Mapped post: /articles
+[2023-10-14T20:25:30.359] [INFO] default - Server run on the port 3000
+[2023-10-14T20:26:32.855] [ERROR] default - SIGTERM
+[2023-10-14T20:26:32.856] [INFO] default - SIGTERM received
+[2023-10-14T20:26:34.524] [INFO] default - Server run on the port 3000
+[2023-10-14T20:26:51.820] [ERROR] default - SIGTERM
+[2023-10-14T20:26:51.821] [INFO] default - SIGTERM received
+[2023-10-14T20:26:53.471] [INFO] default - Server run on the port 3000

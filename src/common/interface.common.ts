@@ -1,5 +1,12 @@
 import mongoose from "mongoose";
 
+export interface RouteDefinition {
+  path: string;
+  requestMethod: 'get' | 'post' | 'delete' | 'options' | 'put' | 'patch';
+  methodName: string;
+}
+
+
 interface IAuditTrail {
   created_at?: Date;
   updated_at?: Date;

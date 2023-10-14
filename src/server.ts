@@ -2,9 +2,13 @@ import { Server } from "http";
 import logger from "./logger/logger";
 import { connectDB } from "./db/db";
 import config from "config";
-import app from "./app";
+import { appFactory } from "./app-factory";
+import { AppModule } from "./app.module";
 
 const port: number = config.get<number>("server.port") || 3000;
+
+// initialize app
+const app = appFactory.create(AppModule);
 
 // start server
 let dbClient: any;
